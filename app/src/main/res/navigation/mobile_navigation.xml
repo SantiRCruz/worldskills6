@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_categorias">
+
+    <fragment
+        android:id="@+id/navigation_categorias"
+        android:name="com.santiago.worldskills6.ui.categorias.CategoriasFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_categorias" />
+
+    <fragment
+        android:id="@+id/navigation_pedido"
+        android:name="com.santiago.worldskills6.ui.pedido.PedidoFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_pedido" />
+
+    <fragment
+        android:id="@+id/navigation_cena"
+        android:name="com.santiago.worldskills6.ui.historial.HistorialFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_historial" />
+    <fragment
+        android:id="@+id/navigation_categorias_id"
+        android:name="com.santiago.worldskills6.ui.categoriaid.CategoriaIdFragment"
+        android:label="empresa x"
+        tools:layout="@layout/fragment_categoria_id" />
+    <fragment
+        android:id="@+id/navigation_producto_id"
+        android:name="com.santiago.worldskills6.ui.productoid.ProductoIdFragment"
+        android:label="Producto"
+        tools:layout="@layout/fragment_producto_id" />
+</navigation>

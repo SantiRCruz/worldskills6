@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/activity_especialidad.xml" value="0.21" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/activity_iniciar_sesion.xml" value="0.25" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/activity_main.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/activity_registro.xml" value="0.33" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/dialog_pedido.xml" value="0.209375" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/fragment_bebidas.xml" value="0.209375" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/fragment_categoria_id.xml" value="0.209375" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/fragment_categorias.xml" value="0.209375" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/fragment_desayuno.xml" value="0.209375" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/fragment_historial.xml" value="0.209375" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/fragment_pedido.xml" value="0.209375" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/fragment_producto_id.xml" value="0.209375" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/item_categoria_id.xml" value="0.33" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/item_categorias.xml" value="0.18" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/item_historial.xml" value="0.33" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/layout/item_pedido.xml" value="0.5" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/menu/bottom_nav_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/SENA/AndroidStudioProjects/WorldSkills6/app/src/main/res/menu/menu_main.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
